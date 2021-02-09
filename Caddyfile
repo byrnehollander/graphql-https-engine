@@ -1,0 +1,3 @@
+hasura.trivia.digital {
+  reverse_proxy graphql-engine:8080
+}
